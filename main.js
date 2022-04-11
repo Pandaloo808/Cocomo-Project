@@ -1,5 +1,5 @@
 function preload(){ 
-  img = loadImage('dog_cat.jpg'); 
+  img = loadImage('https://mahdihat791.github.io/C131/dog_cat.jpg'); 
 } 
 function setup() { 
   canvas = createCanvas(640, 420); 
